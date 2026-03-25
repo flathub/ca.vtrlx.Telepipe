@@ -1,7 +1,7 @@
 {
 	"app-id": "ca.vtrlx.Telepipe",
 	"runtime": "org.gnome.Platform",
-	"runtime-version": "49",
+	"runtime-version": "50",
 	"sdk": "org.gnome.Sdk",
 	"command": "telepipe",
 	"finish-args": [
@@ -40,8 +40,8 @@
 		"sources": [{
 			"type": "git",
 			"url": "https://github.com/vtrlx/telepipe",
-			"tag": "1.1",
-			"commit": "d982580bca40d566eefa2cf1d7e799a26e3f30ce"
+			"tag": "1.2",
+			"commit": "f626b9dbf253e879b4fdd215c9447a21e90d932f"
 		}]
 	}]
 }
