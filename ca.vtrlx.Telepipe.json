@@ -39,9 +39,8 @@
 		"make-install-args": ["PREFIX=/app"],
 		"sources": [{
 			"type": "git",
-			"url": "https://github.com/vtrlx/telepipe",
-			"tag": "1.2",
-			"commit": "f626b9dbf253e879b4fdd215c9447a21e90d932f"
+			"url": "https://codeberg.org/vtrlx/telepipe",
+			"commit": "9ce58fd5bd318c4ecb87b90aa047b23247cb09c6"
 		}]
 	}]
 }
